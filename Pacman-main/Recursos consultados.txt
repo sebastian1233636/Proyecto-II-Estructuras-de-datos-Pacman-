@@ -1,0 +1,16 @@
+https://www.pygame.org/docs/
+https://networkx.org/documentation/stable/reference/functions.html#graph
+https://www.reddit.com/r/Python/comments/ydxh7t/rebuilt_pacman_from_scratch_using_python_with_the/?tl=es-es&rdt=35715
+https://github.com/hbokmann/Pacman
+https://thepythoncode.com/article/creating-pacman-game-with-python
+https://medium.com/dataflair/create-pacman-game-using-python-7dcedbbe74f1
+https://github.com/plemaster01/PythonPacman
+https://justtothepoint.com/code/pacman/
+https://www.toolify.ai/es/ai-news-es/descubre-el-sorprendente-comportamiento-de-los-fantasmas-en-pacman-1126891
+https://stackoverflow.com/questions/73328115/pacman-ghost-movement
+https://github.com/moritree/PY-MAN/blob/master/PacMan.py
+https://medium.com/dataflair/create-pacman-game-using-python-7dcedbbe74f1
+https://github.com/plemaster01/PythonPacman/blob/main/pacman.py
+https://youtu.be/9H27CimgPsQ?si=hnrbofGrZJeaXkPL
+https://www.youtube.com/live/0kbw6Sk4ZWE?si=cErjgVbZ4GK7onQW
+
